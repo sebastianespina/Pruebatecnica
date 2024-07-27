@@ -1,0 +1,9 @@
+npm create vite (JavaScript)
+npm install
+npm run dev
+npm i react-router-dom react-hot-toas axios react-hook-form
+
+
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p (sin no función por separado correr todo junto)
